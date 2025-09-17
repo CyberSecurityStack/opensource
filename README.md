@@ -1,30 +1,26 @@
 # Resonance Protocol – Open Source
 
-Resonance Protocol is an open-source framework for **system integrity and trust verification**. It models systems as layered *hives*, using recursive hashing and Merkle trees to detect tampering.  
+[Join our Discord community](https://discord.gg/H7WrZRDHNP)
 
-The project supports:
-- **Passive Mode** – local integrity checks
-- **Active Mode** – trust contracts between systems for resilient, evidence-based validation
+Resonance Protocol is an open-source framework for system integrity and trust verification. It models systems as layered hives and uses recursive hashing and Merkle trees to detect tampering and establish trust.
 
-This repo includes whitepapers, technical documentation, and example implementations.
-
----
+## Modes
+- Passive Mode – local integrity checks on a single system
+- Active Mode – trust contracts between adjacent systems for coordinated defence
 
 ## Features
-- Recursive hashing for immutable state verification
-- Merkle tree-based tamper detection
-- Hive-based system modelling
-- Support for local and distributed trust evaluation
-
----
+- Recursive hashing to baseline immutable state
+- Merkle tree construction and verification
+- Hive-based modelling across layers and components
+- Local and distributed trust evaluation
+- Tamper detection with clear audit artefacts
 
 ## Documentation
-- [Whitepaper (PDF)](./Cyber%20Security%20Stack%20-%20Resonance%20Protocol%20Technical%20Whitepaper.pdf)  
-- [Whitepaper (Markdown)](./whitepaper.md)
+- Whitepaper (Markdown): docs/whitepaper.md
+- Whitepaper (PDF): docs/whitepaper.pdf
 
----
-
-## Getting Started
-Clone the repo:
+## Getting started
+Clone the repository:
 ```bash
 git clone https://github.com/CyberSecurityStack/opensource.git
+cd opensource
