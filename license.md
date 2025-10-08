@@ -1,51 +1,72 @@
-License
+Cyber Security Stack Open Research Licence (CSS-ORL)
 
-MIT License with Commons Clause Restriction
-Copyright (c) 2024 Cyber Security Stack Ltd
+Version 1.0 — October 2025
+Copyright (c) 2024-2025 Cyber Security Stack Ltd
 All rights reserved.
 
 ⸻
 
-1. Core Licence (MIT)
+1. Purpose
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction — including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software — and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
-In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+This licence governs the use of the software, source code, architecture, and related materials (collectively, the “Software”) developed and released by Cyber Security Stack Ltd (“the Licensor”).
+The intention of this licence is to allow open academic, educational, and personal research use of the Software, while reserving all commercial rights to the Licensor.
 
 ⸻
 
-2. Commons Clause Restriction
+2. Permitted Uses
 
-The following additional restriction applies to the MIT Licence above:
+You are free to:
+	•	Use, copy, and modify the Software for non-commercial, research, academic, or personal purposes.
+	•	Share, publish, or discuss the Software and its concepts for the advancement of knowledge, education, and open scientific collaboration.
+	•	Reference the Software or its architecture in academic or technical works, provided attribution is given to Cyber Security Stack Ltd.
 
-“Commons Clause” License Condition v1.0
-
-The license granted does not include the right to Sell the Software.
-
-“Sell” means practising any or all of the rights granted to you under the license to provide to third parties, for a fee or other consideration (including without limitation fees for hosting, consultancy, integration, managed services, or productisation), a product or service whose value derives, entirely or substantially, from the functionality or architecture of the Software.
-
-Any form of commercialisation, resale, or monetisation of this Software or any derivative work thereof requires prior written authorisation from Cyber Security Stack Ltd.
+No fee, charge, or consideration may be received for any activity permitted under this section.
 
 ⸻
 
-3. Intended Use
+3. Prohibited Uses
 
-This Software is made available to:
-	•	Researchers, academics, and individuals for non-commercial, educational, research, or personal use of the underlying concepts, architecture, and source code, without the need for authorisation from Cyber Security Stack Ltd.
-	•	The wider community for learning, experimentation, and open scientific collaboration.
+Without prior written authorisation from Cyber Security Stack Ltd, you may not:
+	•	Use, sell, license, or otherwise exploit the Software, its architecture, or derivative works for commercial gain.
+	•	Integrate the Software into any commercial product, managed service, or paid offering.
+	•	Use the Software to provide consultancy, integration, or hosting services for which a fee is charged.
+	•	Misrepresent the Software or derivative works as your own or remove attribution to the Licensor.
 
-This Software is not open for commercial use.
-Any integration into commercial products, paid services, or enterprise offerings — including derivative implementations based on the underlying architecture — must be explicitly licensed and approved by Cyber Security Stack Ltd.
+Commercial use includes, but is not limited to, any situation where the Software directly or indirectly contributes to revenue generation, cost avoidance, or competitive advantage in a for-profit context.
 
 ⸻
 
-4. Commercial Licensing
+4. Attribution
 
-For commercial licensing, enterprise partnerships, or integration discussions, please contact:
+Any distribution, academic paper, or derivative work based on the Software must include clear and visible credit to:
+
+“Developed by Cyber Security Stack Ltd — https://cybersecuritystack.co.uk”
+
+⸻
+
+5. Disclaimer of Warranty and Liability
+
+The Software is provided “as is” and without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+In no event shall Cyber Security Stack Ltd or its contributors be liable for any claim, damages, or other liability arising from the use of, or inability to use, the Software.
+
+⸻
+
+6. Commercial Licensing
+
+Commercial use of this Software requires a separate agreement with Cyber Security Stack Ltd.
+
+For licensing, partnership, or enterprise use inquiries, please contact:
 
 Cyber Security Stack Ltd
 Email: partnerships@cybersecuritystack.co.uk
 Website: https://cybersecuritystack.co.uk
+
+⸻
+
+7. Summary
+	•	Free for personal, research, and educational use.
+	•	Attribution required when referenced or redistributed.
+	•	Commercial use prohibited without written approval.
+	•	Cyber Security Stack Ltd retains full commercial rights.
+
+⸻
