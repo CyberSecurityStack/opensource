@@ -58,7 +58,7 @@ Commercial use of this Software requires a separate agreement with Cyber Securit
 For licensing, partnership, or enterprise use inquiries, please contact:
 
 Cyber Security Stack Ltd
-Email: partnerships@cybersecuritystack.co.uk
+Email: hello@cybersecuritystack.co.uk
 Website: https://cybersecuritystack.co.uk
 
 ⸻
